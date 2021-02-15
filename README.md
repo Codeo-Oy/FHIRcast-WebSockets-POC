@@ -1,4 +1,4 @@
-# reactclient.js
+# FHIRcast WebSockets POC (fhircast/reactclient.js)
 
 [FHIRcast](http://fhircast.org/) WebSocket client prototype in React.
 
